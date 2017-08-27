@@ -1,4 +1,8 @@
 # Rasticrac
+
+Includes fix for error: "Cannot find 'ps'. Install from Cydia: 'adv-cmds'" even when adv-cmds is installed
+
+
 Rasticrac v3.2.5 is for Crack IPA file, copy from appaddict.org, just for study. Now support PlugIn and Watch App.
 
 How to use.

@@ -1877,7 +1877,7 @@ PwdPwd="$PWD"
 SelectLanguage
 
 # Votez Martine !
-if [ ! -e /bin/ps ]; then
+if [ ! -e /usr/bin/ps ]; then
     echo "$MsgCntFind 'ps'. $MsgInsCydi: 'adv-cmds'"
     exit 1
 fi
